@@ -1,4 +1,4 @@
-**An ERC@) standard token - GNaira (gNGN)** 
+**An ERC20 standard token - GNaira (gNGN)** 
 
 The gNGN consists of the following specifications:
 * Compliance with [ERC20](https://docs.openzeppelin.com/contracts/erc20) standard 
