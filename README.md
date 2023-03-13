@@ -1,4 +1,4 @@
-**A library for secure smart contract development.** Build on a solid foundation of community-vetted code.
+**An ERC@) standard token - GNaira (gNGN)** 
 
 The gNGN consists of the following specifications:
 * Compliance with [ERC20](https://docs.openzeppelin.com/contracts/erc20) standard 
