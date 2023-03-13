@@ -1,0 +1,4 @@
+run = "npx hardhat run scripts/run.js"
+
+[nix]
+channel = "stable-22_11"
